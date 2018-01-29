@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seyyedmojtaba72/AndroidStudioProjects/ApdanaSDK/apadana-sdk-android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/seyyedmojtaba72/AndroidStudioProjects/ApadanaSDK-Android/apadana_sdk_android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/Users/seyyedmojtaba72/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/454d3d3ea6019e51a50de25a1414206b/res/values-en-rXC/values-en-rXC.xml",

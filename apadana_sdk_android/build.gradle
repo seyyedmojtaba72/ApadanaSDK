@@ -10,8 +10,8 @@ def _libraryDescription = "Apadana CMS SDK for Android SDK"
 def _siteUrl = 'https://github.com/seyyedmojtaba72/ApadanaSDK-Android'      // Homepage URL of the library
 def _gitUrl = 'git@github.com:seyyedmojtaba72/ApadanaSDK-Android.git'   // Git repository URL
 
-def _libraryVersion = "1.0.1"
-def _libraryVersionCode = 2
+def _libraryVersion = "1.0.2"
+def _libraryVersionCode = 3
 
 def _developerId = "seyyedmojtaba72"
 def _developerName = "SeyyedMojtaba Akramzade"
@@ -91,6 +91,9 @@ android {
 repositories {
     mavenCentral()
     maven { url 'https://maven.google.com' }
+    maven { url 'http://dl.bintray.com/gigamole/maven/' }
+    maven { url 'https://jitpack.io' }
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
     google()
 }
 
@@ -99,6 +102,8 @@ dependencies{
     //compile 'com.android.support:support-annotations:25.3.1'
     implementation 'com.android.support:design:27.0.1'
 //    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.github.seyyedmojtaba72:android-utils:2.1.8@aar'
+    implementation 'com.mcxiaoke.volley:library:1.0.19'
     //testCompile 'junit:junit:4.12'
 }
 

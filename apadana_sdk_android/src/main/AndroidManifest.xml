@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.seyyedmojtaba72.apadana_sdk_android">
+
+    <application
+        android:name=".utils.AppController"
+        android:allowBackup="true"></application>
+
+</manifest>
