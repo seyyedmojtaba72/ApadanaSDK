@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.seyyedmojtaba72:android-utils-2.2.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-utils-2.2.3.aar/316193305c28ca69f928ba175144c9b7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-utils-2.2.3.aar/316193305c28ca69f928ba175144c9b7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.seyyedmojtaba72/android-utils/2.2.3/3629d8fbf5a7a80206b580a9d530d661966459cc/android-utils-2.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

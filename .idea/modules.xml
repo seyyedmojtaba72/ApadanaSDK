@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApadanaSDK-Android.iml" filepath="$PROJECT_DIR$/ApadanaSDK-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/apadana_sdk_android/apadana_sdk_android.iml" filepath="$PROJECT_DIR$/apadana_sdk_android/apadana_sdk_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apadana-sdk-android/apadana-sdk-android.iml" filepath="$PROJECT_DIR$/apadana-sdk-android/apadana-sdk-android.iml" />
     </modules>
   </component>
 </project>
